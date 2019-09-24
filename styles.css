@@ -1,0 +1,10 @@
+.banner {
+    height: 200px;
+    background-color: #e99e2f;
+}
+
+.whitetitle {
+    color: white;
+    padding: 45px;
+    font-family: Calibri;
+}
